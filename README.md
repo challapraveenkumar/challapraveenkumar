@@ -1,4 +1,4 @@
-
+![logo](https://github.com/challapraveenkumar/challapraveenkumar/blob/main/github.PNG)
 <h1 align="center">Hi 👋, I'm challa praveen kumar</h1>
 <h3 align="center">An MCA graduate and aspiring MERN Stack developer from India.</h3>
 
