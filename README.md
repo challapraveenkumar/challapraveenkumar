@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [challa-praveen-kumar-resume.netlify.app](challa-praveen-kumar-resume.netlify.app)
 
-- ⚡ Fun fact **⚡ Fun fact: I enjoy turning coffee ☕ into code and ideas into web apps.**
+- ⚡ Fun fact **⚡ : turning coffee ☕ into code and ideas into web apps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
