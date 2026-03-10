@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=challapraveenkumar&label=Profile%20views&color=0e75b6&style=flat" alt="challapraveenkumar" /> </p>
 
-- 🔭 I’m currently working on [MERN Blog Platform](https://blog-praveen.netlify.app/)
+- 🔭 I’m currently working on [MERN Blog Platform](https://atomic-blogs-praveen.netlify.app/)
 
 - 🌱 I’m currently learning **Advanced MERN Stack development and building full-stack web applications. 🚀**
 
