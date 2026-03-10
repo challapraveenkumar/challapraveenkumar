@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://challa-praveen-kumar-portfolio.netlify.app/](https://challa-praveen-kumar-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://blog-written-by-praveen.netlify.app/](https://blog-written-by-praveen.netlify.app/)
+- 📝 I regularly write articles on (https://atomic-blogs-praveen.netlify.app/)
 
 - 💬 Ask me about **MERN Stack, React.js, Node.js, MongoDB, and JavaScript. 🚀**
 
